@@ -8,4 +8,4 @@ Mostrar trabajos finales de manera interactiva
 
 **¿Qué existe que es similar a la propuesta?**
 
-blank_target https://activetheory.net/home 
+https://activetheory.net/home 
