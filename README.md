@@ -2,4 +2,6 @@
 ¿Para qué? Mostrar trabajos finales de manera interactiva
 
 **¿Para quiénes?**
-![Arquetipos](readme/arquetipos.png)
+![arquetipos](readme/arquetipos.png)
+
+**¿Qué existe que es similar a la propuesta?**
