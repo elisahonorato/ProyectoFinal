@@ -10,8 +10,6 @@ Mostrar trabajos finales de manera interactiva
 
 https://activetheory.net/home 
 
-https://glenncatteeuw.com/
-
 https://www.awwwards.com/sites/festival-theatre-ul
 Este sitio web es llamativo y muy interactivo.
 
@@ -20,3 +18,16 @@ Me gusta la interactividad.
 
 https://www.awwwards.com/sites/wllx-event-agency 
 Landing page 10/10
+
+https://www.awwwards.com/sites/www-eduardodelfraile-com
+Esta página está increíble, muy simple
+
+
+
+Más parecido a mi proyecto.
+
+https://www.awwwards.com/sites/nexal-studio
+
+Esta página me gusta mucho
+
+https://glenncatteeuw.com/
